@@ -1,0 +1,927 @@
+,PRIM_STATE,NAICS_TITLE,OCC_TITLE,A_PCT10,A_PCT25,A_MEDIAN,A_PCT75,A_PCT90
+0,US,Accommodation and Food Services,Other Production Occupations,10000,20000,30000,40000,50000
+1,NE,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+2,US,Manufacturing,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+3,US,Wholesale Trade,Material Moving Workers,10000,20000,30000,40000,50000
+4,US,Other Services (except Public Administration),Supervisors of Building and Grounds Cleaning and Maintenance Workers,10000,20000,30000,40000,50000
+5,US,"Professional, Scientific, and Technical Services",Occupational Health and Safety Specialists and Technicians,10000,20000,30000,40000,50000
+6,US,Construction,Food Preparation and Serving Related Occupations,10000,20000,30000,40000,50000
+7,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+8,NH,Cross-industry,"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+9,US,Construction,Air Transportation Workers,10000,20000,30000,40000,50000
+10,US,"Mining, Quarrying, and Oil and Gas Extraction",Architecture and Engineering Occupations,10000,20000,30000,40000,50000
+11,US,Information,Supervisors of Office and Administrative Support Workers,10000,20000,30000,40000,50000
+12,US,"Professional, Scientific, and Technical Services",Production Occupations,10000,20000,30000,40000,50000
+13,US,"Arts, Entertainment, and Recreation",Computer and Mathematical Occupations,10000,20000,30000,40000,50000
+14,US,Utilities,Business Operations Specialists,10000,20000,30000,40000,50000
+15,US,Accommodation and Food Services,Food and Beverage Serving Workers,10000,20000,30000,40000,50000
+16,VT,Cross-industry,Management Occupations,10000,20000,30000,40000,50000
+17,US,Educational Services,Other Management Occupations,10000,20000,30000,40000,50000
+18,US,Transportation and Warehousing,Supervisors of Personal Care and Service Workers,10000,20000,30000,40000,50000
+19,SD,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+20,PA,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+21,US,Construction,Water Transportation Workers,10000,20000,30000,40000,50000
+22,US,Administrative and Support and Waste Management and Remediation Services,Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+23,IN,Cross-industry,Production Occupations,10000,20000,30000,40000,50000
+24,OH,Cross-industry,Computer and Mathematical Occupations,10000,20000,30000,40000,50000
+25,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)","Entertainers and Performers, Sports and Related Workers",10000,20000,30000,40000,50000
+26,US,Health Care and Social Assistance,Other Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+27,US,Administrative and Support and Waste Management and Remediation Services,Art and Design Workers,10000,20000,30000,40000,50000
+28,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)","Electrical and Electronic Equipment Mechanics, Installers, and Repairers",10000,20000,30000,40000,50000
+29,US,"Agriculture, Forestry, Fishing and Hunting",Food Preparation and Serving Related Occupations,10000,20000,30000,40000,50000
+30,US,"Arts, Entertainment, and Recreation",Motor Vehicle Operators,10000,20000,30000,40000,50000
+31,AK,Cross-industry,"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+32,US,Finance and Insurance,Computer and Mathematical Occupations,10000,20000,30000,40000,50000
+33,US,Utilities,Other Office and Administrative Support Workers,10000,20000,30000,40000,50000
+34,IN,Cross-industry,Community and Social Service Occupations,10000,20000,30000,40000,50000
+35,US,Utilities,Extraction Workers,10000,20000,30000,40000,50000
+36,HI,Cross-industry,Community and Social Service Occupations,10000,20000,30000,40000,50000
+37,US,Other Services (except Public Administration),Building Cleaning and Pest Control Workers,10000,20000,30000,40000,50000
+38,MT,Cross-industry,Management Occupations,10000,20000,30000,40000,50000
+39,US,Utilities,Life Scientists,10000,20000,30000,40000,50000
+40,US,Other Services (except Public Administration),"Material Recording, Scheduling, Dispatching, and Distributing Workers",10000,20000,30000,40000,50000
+41,CT,Cross-industry,Sales and Related Occupations,10000,20000,30000,40000,50000
+42,US,Accommodation and Food Services,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers",10000,20000,30000,40000,50000
+43,TN,Cross-industry,Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+44,US,Utilities,Physical Scientists,10000,20000,30000,40000,50000
+45,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Legal Support Workers,10000,20000,30000,40000,50000
+46,US,Health Care and Social Assistance,Mathematical Science Occupations,10000,20000,30000,40000,50000
+47,US,Other Services (except Public Administration),Plant and System Operators,10000,20000,30000,40000,50000
+48,US,Utilities,Other Construction and Related Workers,10000,20000,30000,40000,50000
+49,US,"Professional, Scientific, and Technical Services","Textile, Apparel, and Furnishings Workers",10000,20000,30000,40000,50000
+50,US,Health Care and Social Assistance,Firefighting and Prevention Workers,10000,20000,30000,40000,50000
+51,HI,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+52,US,Retail Trade,"Helpers, Construction Trades",10000,20000,30000,40000,50000
+53,US,Manufacturing,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+54,US,Finance and Insurance,Printing Workers,10000,20000,30000,40000,50000
+55,US,Finance and Insurance,Business and Financial Operations Occupations,10000,20000,30000,40000,50000
+56,VA,Cross-industry,"Life, Physical, and Social Science Occupations",10000,20000,30000,40000,50000
+57,NM,Cross-industry,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+58,US,Cross-industry,Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+59,US,Utilities,Architecture and Engineering Occupations,10000,20000,30000,40000,50000
+60,NJ,Cross-industry,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+61,OR,Cross-industry,Legal Occupations,10000,20000,30000,40000,50000
+62,US,Cross-industry,Supervisors of Building and Grounds Cleaning and Maintenance Workers,10000,20000,30000,40000,50000
+63,US,Manufacturing,Healthcare Diagnosing or Treating Practitioners,10000,20000,30000,40000,50000
+64,IA,Cross-industry,Architecture and Engineering Occupations,10000,20000,30000,40000,50000
+65,US,Cross-industry,Sales and Related Occupations,10000,20000,30000,40000,50000
+66,US,"Professional, Scientific, and Technical Services",Legal Support Workers,10000,20000,30000,40000,50000
+67,US,"Mining, Quarrying, and Oil and Gas Extraction",Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+68,US,"Professional, Scientific, and Technical Services",Other Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+69,US,Construction,Other Personal Care and Service Workers,10000,20000,30000,40000,50000
+70,MT,Cross-industry,Food Preparation and Serving Related Occupations,10000,20000,30000,40000,50000
+71,FL,Cross-industry,"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+72,TN,Cross-industry,Food Preparation and Serving Related Occupations,10000,20000,30000,40000,50000
+73,US,Retail Trade,Secretaries and Administrative Assistants,10000,20000,30000,40000,50000
+74,US,"Agriculture, Forestry, Fishing and Hunting",Air Transportation Workers,10000,20000,30000,40000,50000
+75,OK,Cross-industry,"Life, Physical, and Social Science Occupations",10000,20000,30000,40000,50000
+76,US,Utilities,"Drafters, Engineering Technicians, and Mapping Technicians",10000,20000,30000,40000,50000
+77,US,Retail Trade,Business Operations Specialists,10000,20000,30000,40000,50000
+78,US,Information,Other Construction and Related Workers,10000,20000,30000,40000,50000
+79,US,Wholesale Trade,Supervisors of Construction and Extraction Workers,10000,20000,30000,40000,50000
+80,US,Cross-industry,Other Protective Service Workers,10000,20000,30000,40000,50000
+81,AL,Cross-industry,Protective Service Occupations,10000,20000,30000,40000,50000
+82,US,Manufacturing,"Life, Physical, and Social Science Technicians",10000,20000,30000,40000,50000
+83,SC,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+84,US,Educational Services,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+85,US,Real Estate and Rental and Leasing,"Drafters, Engineering Technicians, and Mapping Technicians",10000,20000,30000,40000,50000
+86,US,"Mining, Quarrying, and Oil and Gas Extraction",Art and Design Workers,10000,20000,30000,40000,50000
+87,US,Real Estate and Rental and Leasing,"Textile, Apparel, and Furnishings Workers",10000,20000,30000,40000,50000
+88,MS,Cross-industry,Legal Occupations,10000,20000,30000,40000,50000
+89,OR,Cross-industry,Business and Financial Operations Occupations,10000,20000,30000,40000,50000
+90,US,"Mining, Quarrying, and Oil and Gas Extraction",Grounds Maintenance Workers,10000,20000,30000,40000,50000
+91,US,Utilities,Media and Communication Workers,10000,20000,30000,40000,50000
+92,US,Real Estate and Rental and Leasing,Other Management Occupations,10000,20000,30000,40000,50000
+93,US,Finance and Insurance,Other Protective Service Workers,10000,20000,30000,40000,50000
+94,US,"Mining, Quarrying, and Oil and Gas Extraction",Agricultural Workers,10000,20000,30000,40000,50000
+95,US,"Professional, Scientific, and Technical Services",Other Construction and Related Workers,10000,20000,30000,40000,50000
+96,US,Construction,Healthcare Diagnosing or Treating Practitioners,10000,20000,30000,40000,50000
+97,US,Real Estate and Rental and Leasing,Mathematical Science Occupations,10000,20000,30000,40000,50000
+98,US,Educational Services,Material Moving Workers,10000,20000,30000,40000,50000
+99,ND,Cross-industry,Legal Occupations,10000,20000,30000,40000,50000
+100,US,Administrative and Support and Waste Management and Remediation Services,Material Moving Workers,10000,20000,30000,40000,50000
+101,US,Other Services (except Public Administration),Information and Record Clerks,10000,20000,30000,40000,50000
+102,US,"Mining, Quarrying, and Oil and Gas Extraction",Rail Transportation Workers,10000,20000,30000,40000,50000
+103,US,"Mining, Quarrying, and Oil and Gas Extraction",Business and Financial Operations Occupations,10000,20000,30000,40000,50000
+104,US,Management of Companies and Enterprises,Religious Workers,10000,20000,30000,40000,50000
+105,MO,Cross-industry,Protective Service Occupations,10000,20000,30000,40000,50000
+106,WY,Cross-industry,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+107,MT,Cross-industry,"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+108,RI,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+109,NY,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+110,NY,Cross-industry,Computer and Mathematical Occupations,10000,20000,30000,40000,50000
+111,US,"Agriculture, Forestry, Fishing and Hunting",Supervisors of Sales Workers,10000,20000,30000,40000,50000
+112,WA,Cross-industry,"Life, Physical, and Social Science Occupations",10000,20000,30000,40000,50000
+113,ID,Cross-industry,Sales and Related Occupations,10000,20000,30000,40000,50000
+114,IL,Cross-industry,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+115,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Personal Appearance Workers,10000,20000,30000,40000,50000
+116,WA,Cross-industry,Sales and Related Occupations,10000,20000,30000,40000,50000
+117,SC,Cross-industry,Production Occupations,10000,20000,30000,40000,50000
+118,US,Other Services (except Public Administration),Metal Workers and Plastic Workers,10000,20000,30000,40000,50000
+119,NV,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+120,MN,Cross-industry,Office and Administrative Support Occupations,10000,20000,30000,40000,50000
+121,OK,Cross-industry,"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+122,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Material Moving Workers,10000,20000,30000,40000,50000
+123,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)","Forest, Conservation, and Logging Workers",10000,20000,30000,40000,50000
+124,OK,Cross-industry,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+125,MD,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+126,US,Manufacturing,Supervisors of Sales Workers,10000,20000,30000,40000,50000
+127,US,Cross-industry,Building Cleaning and Pest Control Workers,10000,20000,30000,40000,50000
+128,US,Health Care and Social Assistance,Religious Workers,10000,20000,30000,40000,50000
+129,US,Manufacturing,Entertainment Attendants and Related Workers,10000,20000,30000,40000,50000
+130,US,Manufacturing,Other Healthcare Support Occupations,10000,20000,30000,40000,50000
+131,US,Educational Services,Other Sales and Related Workers,10000,20000,30000,40000,50000
+132,US,"Agriculture, Forestry, Fishing and Hunting",Grounds Maintenance Workers,10000,20000,30000,40000,50000
+133,US,Finance and Insurance,"Drafters, Engineering Technicians, and Mapping Technicians",10000,20000,30000,40000,50000
+134,GA,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+135,US,"Agriculture, Forestry, Fishing and Hunting","Material Recording, Scheduling, Dispatching, and Distributing Workers",10000,20000,30000,40000,50000
+136,US,Construction,Financial Specialists,10000,20000,30000,40000,50000
+137,US,Cross-industry,Other Management Occupations,10000,20000,30000,40000,50000
+138,US,"Arts, Entertainment, and Recreation",Food and Beverage Serving Workers,10000,20000,30000,40000,50000
+139,MD,Cross-industry,Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+140,US,Educational Services,Operations Specialties Managers,10000,20000,30000,40000,50000
+141,US,Construction,Physical Scientists,10000,20000,30000,40000,50000
+142,US,Utilities,"Supervisors of Farming, Fishing, and Forestry Workers",10000,20000,30000,40000,50000
+143,US,Cross-industry,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+144,MA,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+145,US,Cross-industry,Social Scientists and Related Workers,10000,20000,30000,40000,50000
+146,US,Cross-industry,Supervisors of Production Workers,10000,20000,30000,40000,50000
+147,US,Administrative and Support and Waste Management and Remediation Services,Firefighting and Prevention Workers,10000,20000,30000,40000,50000
+148,US,Construction,Rail Transportation Workers,10000,20000,30000,40000,50000
+149,US,Information,Construction Trades Workers,10000,20000,30000,40000,50000
+150,US,Management of Companies and Enterprises,"Architects, Surveyors, and Cartographers",10000,20000,30000,40000,50000
+151,US,"Agriculture, Forestry, Fishing and Hunting",Supervisors of Office and Administrative Support Workers,10000,20000,30000,40000,50000
+152,GA,Cross-industry,Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+153,US,Information,Other Food Preparation and Serving Related Workers,10000,20000,30000,40000,50000
+154,US,Real Estate and Rental and Leasing,"Material Recording, Scheduling, Dispatching, and Distributing Workers",10000,20000,30000,40000,50000
+155,DC,Cross-industry,Computer and Mathematical Occupations,10000,20000,30000,40000,50000
+156,US,Educational Services,"Architects, Surveyors, and Cartographers",10000,20000,30000,40000,50000
+157,UT,Cross-industry,Management Occupations,10000,20000,30000,40000,50000
+158,US,Wholesale Trade,"Counselors, Social Workers, and Other Community and Social Service Specialists",10000,20000,30000,40000,50000
+159,US,Retail Trade,"Entertainers and Performers, Sports and Related Workers",10000,20000,30000,40000,50000
+160,US,Construction,Business Operations Specialists,10000,20000,30000,40000,50000
+161,US,"Mining, Quarrying, and Oil and Gas Extraction","Life, Physical, and Social Science Technicians",10000,20000,30000,40000,50000
+162,KS,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+163,US,Management of Companies and Enterprises,Business Operations Specialists,10000,20000,30000,40000,50000
+164,US,Utilities,Other Transportation Workers,10000,20000,30000,40000,50000
+165,IN,Cross-industry,Food Preparation and Serving Related Occupations,10000,20000,30000,40000,50000
+166,TX,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+167,US,Health Care and Social Assistance,Media and Communication Equipment Workers,10000,20000,30000,40000,50000
+168,US,Wholesale Trade,Production Occupations,10000,20000,30000,40000,50000
+169,US,"Agriculture, Forestry, Fishing and Hunting","Drafters, Engineering Technicians, and Mapping Technicians",10000,20000,30000,40000,50000
+170,US,Manufacturing,Health Technologists and Technicians,10000,20000,30000,40000,50000
+171,US,"Professional, Scientific, and Technical Services",Animal Care and Service Workers,10000,20000,30000,40000,50000
+172,US,Utilities,Supervisors of Protective Service Workers,10000,20000,30000,40000,50000
+173,NC,Cross-industry,Computer and Mathematical Occupations,10000,20000,30000,40000,50000
+174,SC,Cross-industry,Management Occupations,10000,20000,30000,40000,50000
+175,AK,Cross-industry,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+176,KS,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+177,US,Manufacturing,Metal Workers and Plastic Workers,10000,20000,30000,40000,50000
+178,IL,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+179,US,Transportation and Warehousing,Assemblers and Fabricators,10000,20000,30000,40000,50000
+180,US,Educational Services,"Preschool, Elementary, Middle, Secondary, and Special Education Teachers",10000,20000,30000,40000,50000
+181,IL,Cross-industry,Community and Social Service Occupations,10000,20000,30000,40000,50000
+182,US,"Professional, Scientific, and Technical Services","Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+183,US,"Arts, Entertainment, and Recreation","Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+184,OH,Cross-industry,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+185,US,Other Services (except Public Administration),Healthcare Support Occupations,10000,20000,30000,40000,50000
+186,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Plant and System Operators,10000,20000,30000,40000,50000
+187,US,Accommodation and Food Services,Computer Occupations,10000,20000,30000,40000,50000
+188,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Retail Sales Workers,10000,20000,30000,40000,50000
+189,OH,Cross-industry,Production Occupations,10000,20000,30000,40000,50000
+190,US,Wholesale Trade,Other Sales and Related Workers,10000,20000,30000,40000,50000
+191,US,Information,Occupational Health and Safety Specialists and Technicians,10000,20000,30000,40000,50000
+192,VA,Cross-industry,Production Occupations,10000,20000,30000,40000,50000
+193,KY,Cross-industry,Business and Financial Operations Occupations,10000,20000,30000,40000,50000
+194,IA,Cross-industry,"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+195,US,Educational Services,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+196,US,Real Estate and Rental and Leasing,Office and Administrative Support Occupations,10000,20000,30000,40000,50000
+197,AL,Cross-industry,"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+198,OR,Cross-industry,Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+199,US,Wholesale Trade,Construction Trades Workers,10000,20000,30000,40000,50000
+200,US,Cross-industry,Food Preparation and Serving Related Occupations,10000,20000,30000,40000,50000
+201,IN,Cross-industry,"Life, Physical, and Social Science Occupations",10000,20000,30000,40000,50000
+202,US,Finance and Insurance,"Supervisors of Installation, Maintenance, and Repair Workers",10000,20000,30000,40000,50000
+203,US,"Professional, Scientific, and Technical Services",Other Sales and Related Workers,10000,20000,30000,40000,50000
+204,CA,Cross-industry,Production Occupations,10000,20000,30000,40000,50000
+205,US,Wholesale Trade,Firefighting and Prevention Workers,10000,20000,30000,40000,50000
+206,US,"Professional, Scientific, and Technical Services",Healthcare Diagnosing or Treating Practitioners,10000,20000,30000,40000,50000
+207,US,Other Services (except Public Administration),"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+208,US,Other Services (except Public Administration),Community and Social Service Occupations,10000,20000,30000,40000,50000
+209,GA,Cross-industry,"Life, Physical, and Social Science Occupations",10000,20000,30000,40000,50000
+210,NE,Cross-industry,Food Preparation and Serving Related Occupations,10000,20000,30000,40000,50000
+211,US,Educational Services,Postsecondary Teachers,10000,20000,30000,40000,50000
+212,WV,Cross-industry,Management Occupations,10000,20000,30000,40000,50000
+213,MT,Cross-industry,Computer and Mathematical Occupations,10000,20000,30000,40000,50000
+214,US,Retail Trade,Plant and System Operators,10000,20000,30000,40000,50000
+215,US,Educational Services,"Life, Physical, and Social Science Occupations",10000,20000,30000,40000,50000
+216,US,Educational Services,Supervisors of Sales Workers,10000,20000,30000,40000,50000
+217,US,Retail Trade,"Electrical and Electronic Equipment Mechanics, Installers, and Repairers",10000,20000,30000,40000,50000
+218,SD,Cross-industry,Community and Social Service Occupations,10000,20000,30000,40000,50000
+219,NV,Cross-industry,Food Preparation and Serving Related Occupations,10000,20000,30000,40000,50000
+220,US,"Professional, Scientific, and Technical Services",Metal Workers and Plastic Workers,10000,20000,30000,40000,50000
+221,US,Retail Trade,Occupational Health and Safety Specialists and Technicians,10000,20000,30000,40000,50000
+222,US,"Professional, Scientific, and Technical Services",Other Teachers and Instructors,10000,20000,30000,40000,50000
+223,US,Wholesale Trade,Supervisors of Building and Grounds Cleaning and Maintenance Workers,10000,20000,30000,40000,50000
+224,US,Administrative and Support and Waste Management and Remediation Services,Extraction Workers,10000,20000,30000,40000,50000
+225,US,Real Estate and Rental and Leasing,"Supervisors of Installation, Maintenance, and Repair Workers",10000,20000,30000,40000,50000
+226,CT,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+227,US,Finance and Insurance,Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+228,GA,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+229,US,Information,Retail Sales Workers,10000,20000,30000,40000,50000
+230,US,"Mining, Quarrying, and Oil and Gas Extraction",Supervisors of Office and Administrative Support Workers,10000,20000,30000,40000,50000
+231,RI,Cross-industry,"Life, Physical, and Social Science Occupations",10000,20000,30000,40000,50000
+232,US,Health Care and Social Assistance,Other Sales and Related Workers,10000,20000,30000,40000,50000
+233,US,Accommodation and Food Services,Healthcare Support Occupations,10000,20000,30000,40000,50000
+234,US,Health Care and Social Assistance,Other Food Preparation and Serving Related Workers,10000,20000,30000,40000,50000
+235,US,"Agriculture, Forestry, Fishing and Hunting",Motor Vehicle Operators,10000,20000,30000,40000,50000
+236,TX,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+237,US,Real Estate and Rental and Leasing,Food Preparation and Serving Related Occupations,10000,20000,30000,40000,50000
+238,SC,Cross-industry,Community and Social Service Occupations,10000,20000,30000,40000,50000
+239,US,Administrative and Support and Waste Management and Remediation Services,Protective Service Occupations,10000,20000,30000,40000,50000
+240,US,"Arts, Entertainment, and Recreation",Other Food Preparation and Serving Related Workers,10000,20000,30000,40000,50000
+241,WA,Cross-industry,Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+242,US,Wholesale Trade,Other Office and Administrative Support Workers,10000,20000,30000,40000,50000
+243,WI,Cross-industry,Office and Administrative Support Occupations,10000,20000,30000,40000,50000
+244,US,Retail Trade,Media and Communication Equipment Workers,10000,20000,30000,40000,50000
+245,US,Information,Other Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+246,US,Manufacturing,Art and Design Workers,10000,20000,30000,40000,50000
+247,RI,Cross-industry,Protective Service Occupations,10000,20000,30000,40000,50000
+248,US,Wholesale Trade,Motor Vehicle Operators,10000,20000,30000,40000,50000
+249,US,Information,Material Moving Workers,10000,20000,30000,40000,50000
+250,ME,Cross-industry,Protective Service Occupations,10000,20000,30000,40000,50000
+251,NJ,Cross-industry,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+252,US,Information,Air Transportation Workers,10000,20000,30000,40000,50000
+253,US,"Mining, Quarrying, and Oil and Gas Extraction",Healthcare Support Occupations,10000,20000,30000,40000,50000
+254,US,Retail Trade,Material Moving Workers,10000,20000,30000,40000,50000
+255,US,"Agriculture, Forestry, Fishing and Hunting",Woodworkers,10000,20000,30000,40000,50000
+256,US,"Arts, Entertainment, and Recreation","Architects, Surveyors, and Cartographers",10000,20000,30000,40000,50000
+257,US,Cross-industry,"Supervisors of Installation, Maintenance, and Repair Workers",10000,20000,30000,40000,50000
+258,US,"Arts, Entertainment, and Recreation",Other Sales and Related Workers,10000,20000,30000,40000,50000
+259,NE,Cross-industry,Sales and Related Occupations,10000,20000,30000,40000,50000
+260,US,"Professional, Scientific, and Technical Services","Sales Representatives, Services",10000,20000,30000,40000,50000
+261,US,Transportation and Warehousing,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+262,US,Information,Building Cleaning and Pest Control Workers,10000,20000,30000,40000,50000
+263,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Media and Communication Workers,10000,20000,30000,40000,50000
+264,US,Retail Trade,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+265,CA,Cross-industry,Office and Administrative Support Occupations,10000,20000,30000,40000,50000
+266,US,Cross-industry,"Librarians, Curators, and Archivists",10000,20000,30000,40000,50000
+267,US,Management of Companies and Enterprises,Material Moving Workers,10000,20000,30000,40000,50000
+268,ND,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+269,US,"Arts, Entertainment, and Recreation","Sales Representatives, Wholesale and Manufacturing",10000,20000,30000,40000,50000
+270,US,Wholesale Trade,Media and Communication Workers,10000,20000,30000,40000,50000
+271,US,Accommodation and Food Services,Supervisors of Protective Service Workers,10000,20000,30000,40000,50000
+272,US,Educational Services,Animal Care and Service Workers,10000,20000,30000,40000,50000
+273,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Firefighting and Prevention Workers,10000,20000,30000,40000,50000
+274,CT,Cross-industry,Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+275,UT,Cross-industry,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+276,ND,Cross-industry,Food Preparation and Serving Related Occupations,10000,20000,30000,40000,50000
+277,US,Cross-industry,"Sales Representatives, Wholesale and Manufacturing",10000,20000,30000,40000,50000
+278,US,Construction,Life Scientists,10000,20000,30000,40000,50000
+279,US,Educational Services,Media and Communication Workers,10000,20000,30000,40000,50000
+280,NE,Cross-industry,Community and Social Service Occupations,10000,20000,30000,40000,50000
+281,CT,Cross-industry,Business and Financial Operations Occupations,10000,20000,30000,40000,50000
+282,US,Other Services (except Public Administration),"Drafters, Engineering Technicians, and Mapping Technicians",10000,20000,30000,40000,50000
+283,AK,Cross-industry,Community and Social Service Occupations,10000,20000,30000,40000,50000
+284,US,Retail Trade,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+285,PA,Cross-industry,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+286,AL,Cross-industry,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+287,US,Retail Trade,"Sales Representatives, Wholesale and Manufacturing",10000,20000,30000,40000,50000
+288,US,Real Estate and Rental and Leasing,Woodworkers,10000,20000,30000,40000,50000
+289,WV,Cross-industry,Computer and Mathematical Occupations,10000,20000,30000,40000,50000
+290,US,Transportation and Warehousing,Information and Record Clerks,10000,20000,30000,40000,50000
+291,US,"Agriculture, Forestry, Fishing and Hunting",Occupational Health and Safety Specialists and Technicians,10000,20000,30000,40000,50000
+292,IL,Cross-industry,Protective Service Occupations,10000,20000,30000,40000,50000
+293,US,Finance and Insurance,Motor Vehicle Operators,10000,20000,30000,40000,50000
+294,US,Administrative and Support and Waste Management and Remediation Services,Other Food Preparation and Serving Related Workers,10000,20000,30000,40000,50000
+295,US,Administrative and Support and Waste Management and Remediation Services,Agricultural Workers,10000,20000,30000,40000,50000
+296,US,Information,Community and Social Service Occupations,10000,20000,30000,40000,50000
+297,US,Health Care and Social Assistance,"Textile, Apparel, and Furnishings Workers",10000,20000,30000,40000,50000
+298,US,Administrative and Support and Waste Management and Remediation Services,Information and Record Clerks,10000,20000,30000,40000,50000
+299,MD,Cross-industry,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+300,KS,Cross-industry,Protective Service Occupations,10000,20000,30000,40000,50000
+301,US,Educational Services,Religious Workers,10000,20000,30000,40000,50000
+302,US,Accommodation and Food Services,"Sales Representatives, Wholesale and Manufacturing",10000,20000,30000,40000,50000
+303,US,Manufacturing,Other Construction and Related Workers,10000,20000,30000,40000,50000
+304,US,Finance and Insurance,Sales and Related Occupations,10000,20000,30000,40000,50000
+305,US,"Agriculture, Forestry, Fishing and Hunting",Other Transportation Workers,10000,20000,30000,40000,50000
+306,OH,Cross-industry,Sales and Related Occupations,10000,20000,30000,40000,50000
+307,RI,Cross-industry,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+308,US,Management of Companies and Enterprises,Other Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+309,UT,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+310,US,Administrative and Support and Waste Management and Remediation Services,Retail Sales Workers,10000,20000,30000,40000,50000
+311,US,Information,Plant and System Operators,10000,20000,30000,40000,50000
+312,US,Finance and Insurance,Engineers,10000,20000,30000,40000,50000
+313,US,Cross-industry,"Forest, Conservation, and Logging Workers",10000,20000,30000,40000,50000
+314,WI,Cross-industry,"Life, Physical, and Social Science Occupations",10000,20000,30000,40000,50000
+315,US,Retail Trade,"Supervisors of Installation, Maintenance, and Repair Workers",10000,20000,30000,40000,50000
+316,US,Manufacturing,Plant and System Operators,10000,20000,30000,40000,50000
+317,US,Educational Services,Protective Service Occupations,10000,20000,30000,40000,50000
+318,US,Retail Trade,Production Occupations,10000,20000,30000,40000,50000
+319,ID,Cross-industry,Legal Occupations,10000,20000,30000,40000,50000
+320,US,Wholesale Trade,Entertainment Attendants and Related Workers,10000,20000,30000,40000,50000
+321,MA,Cross-industry,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+322,US,"Professional, Scientific, and Technical Services","Life, Physical, and Social Science Occupations",10000,20000,30000,40000,50000
+323,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)","Material Recording, Scheduling, Dispatching, and Distributing Workers",10000,20000,30000,40000,50000
+324,CO,Cross-industry,Office and Administrative Support Occupations,10000,20000,30000,40000,50000
+325,MO,Cross-industry,Architecture and Engineering Occupations,10000,20000,30000,40000,50000
+326,US,Construction,Media and Communication Workers,10000,20000,30000,40000,50000
+327,US,Health Care and Social Assistance,Grounds Maintenance Workers,10000,20000,30000,40000,50000
+328,US,"Arts, Entertainment, and Recreation",Physical Scientists,10000,20000,30000,40000,50000
+329,US,Administrative and Support and Waste Management and Remediation Services,Supervisors of Production Workers,10000,20000,30000,40000,50000
+330,US,"Agriculture, Forestry, Fishing and Hunting",Supervisors of Personal Care and Service Workers,10000,20000,30000,40000,50000
+331,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Other Construction and Related Workers,10000,20000,30000,40000,50000
+332,US,Retail Trade,Information and Record Clerks,10000,20000,30000,40000,50000
+333,US,"Professional, Scientific, and Technical Services",Secretaries and Administrative Assistants,10000,20000,30000,40000,50000
+334,CA,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+335,AK,Cross-industry,Food Preparation and Serving Related Occupations,10000,20000,30000,40000,50000
+336,US,Management of Companies and Enterprises,"Drafters, Engineering Technicians, and Mapping Technicians",10000,20000,30000,40000,50000
+337,US,"Arts, Entertainment, and Recreation",Food Preparation and Serving Related Occupations,10000,20000,30000,40000,50000
+338,LA,Cross-industry,Computer and Mathematical Occupations,10000,20000,30000,40000,50000
+339,PA,Cross-industry,Community and Social Service Occupations,10000,20000,30000,40000,50000
+340,WI,Cross-industry,Computer and Mathematical Occupations,10000,20000,30000,40000,50000
+341,US,"Agriculture, Forestry, Fishing and Hunting",Material Moving Workers,10000,20000,30000,40000,50000
+342,US,Retail Trade,"Material Recording, Scheduling, Dispatching, and Distributing Workers",10000,20000,30000,40000,50000
+343,ID,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+344,DE,Cross-industry,Community and Social Service Occupations,10000,20000,30000,40000,50000
+345,US,Accommodation and Food Services,Supervisors of Building and Grounds Cleaning and Maintenance Workers,10000,20000,30000,40000,50000
+346,US,Construction,Supervisors of Sales Workers,10000,20000,30000,40000,50000
+347,US,Health Care and Social Assistance,Printing Workers,10000,20000,30000,40000,50000
+348,US,"Mining, Quarrying, and Oil and Gas Extraction",Mathematical Science Occupations,10000,20000,30000,40000,50000
+349,SC,Cross-industry,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+350,US,Wholesale Trade,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+351,US,Finance and Insurance,Other Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+352,US,Information,Sales and Related Occupations,10000,20000,30000,40000,50000
+353,HI,Cross-industry,Office and Administrative Support Occupations,10000,20000,30000,40000,50000
+354,IN,Cross-industry,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+355,US,Management of Companies and Enterprises,Other Transportation Workers,10000,20000,30000,40000,50000
+356,MS,Cross-industry,Management Occupations,10000,20000,30000,40000,50000
+357,FL,Cross-industry,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+358,US,Wholesale Trade,Secretaries and Administrative Assistants,10000,20000,30000,40000,50000
+359,US,Finance and Insurance,Other Transportation Workers,10000,20000,30000,40000,50000
+360,CO,Cross-industry,Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+361,VA,Cross-industry,Food Preparation and Serving Related Occupations,10000,20000,30000,40000,50000
+362,US,"Agriculture, Forestry, Fishing and Hunting","Supervisors of Installation, Maintenance, and Repair Workers",10000,20000,30000,40000,50000
+363,VT,Cross-industry,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+364,MI,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+365,US,Administrative and Support and Waste Management and Remediation Services,Secretaries and Administrative Assistants,10000,20000,30000,40000,50000
+366,US,Accommodation and Food Services,"Textile, Apparel, and Furnishings Workers",10000,20000,30000,40000,50000
+367,WI,Cross-industry,Architecture and Engineering Occupations,10000,20000,30000,40000,50000
+368,US,Management of Companies and Enterprises,Supervisors of Production Workers,10000,20000,30000,40000,50000
+369,US,Other Services (except Public Administration),Tour and Travel Guides,10000,20000,30000,40000,50000
+370,US,Other Services (except Public Administration),Food Preparation and Serving Related Occupations,10000,20000,30000,40000,50000
+371,US,Cross-industry,Media and Communication Workers,10000,20000,30000,40000,50000
+372,US,Information,"Librarians, Curators, and Archivists",10000,20000,30000,40000,50000
+373,AL,Cross-industry,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+374,US,"Arts, Entertainment, and Recreation",Media and Communication Equipment Workers,10000,20000,30000,40000,50000
+375,US,"Professional, Scientific, and Technical Services",Information and Record Clerks,10000,20000,30000,40000,50000
+376,US,"Agriculture, Forestry, Fishing and Hunting",Supervisors of Transportation and Material Moving Workers,10000,20000,30000,40000,50000
+377,US,Transportation and Warehousing,Tour and Travel Guides,10000,20000,30000,40000,50000
+378,US,Utilities,Construction Trades Workers,10000,20000,30000,40000,50000
+379,US,Construction,Mathematical Science Occupations,10000,20000,30000,40000,50000
+380,US,Health Care and Social Assistance,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+381,US,Transportation and Warehousing,Water Transportation Workers,10000,20000,30000,40000,50000
+382,KS,Cross-industry,Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+383,US,"Professional, Scientific, and Technical Services",Other Protective Service Workers,10000,20000,30000,40000,50000
+384,IN,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+385,US,Educational Services,Mathematical Science Occupations,10000,20000,30000,40000,50000
+386,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Law Enforcement Workers,10000,20000,30000,40000,50000
+387,US,"Professional, Scientific, and Technical Services","Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+388,US,Wholesale Trade,Financial Specialists,10000,20000,30000,40000,50000
+389,US,Accommodation and Food Services,"Sales Representatives, Services",10000,20000,30000,40000,50000
+390,US,Transportation and Warehousing,Retail Sales Workers,10000,20000,30000,40000,50000
+391,MI,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+392,US,Wholesale Trade,Other Protective Service Workers,10000,20000,30000,40000,50000
+393,US,Cross-industry,Information and Record Clerks,10000,20000,30000,40000,50000
+394,US,Cross-industry,Food and Beverage Serving Workers,10000,20000,30000,40000,50000
+395,US,Administrative and Support and Waste Management and Remediation Services,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+396,US,"Arts, Entertainment, and Recreation",Secretaries and Administrative Assistants,10000,20000,30000,40000,50000
+397,US,Manufacturing,Agricultural Workers,10000,20000,30000,40000,50000
+398,US,Administrative and Support and Waste Management and Remediation Services,Supervisors of Construction and Extraction Workers,10000,20000,30000,40000,50000
+399,US,Health Care and Social Assistance,"Sales Representatives, Services",10000,20000,30000,40000,50000
+400,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+401,NV,Cross-industry,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+402,US,Accommodation and Food Services,Information and Record Clerks,10000,20000,30000,40000,50000
+403,KY,Cross-industry,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+404,US,Wholesale Trade,"Drafters, Engineering Technicians, and Mapping Technicians",10000,20000,30000,40000,50000
+405,US,Wholesale Trade,Other Teachers and Instructors,10000,20000,30000,40000,50000
+406,AL,Cross-industry,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+407,OH,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+408,US,Manufacturing,Water Transportation Workers,10000,20000,30000,40000,50000
+409,MO,Cross-industry,Legal Occupations,10000,20000,30000,40000,50000
+410,US,"Arts, Entertainment, and Recreation","Preschool, Elementary, Middle, Secondary, and Special Education Teachers",10000,20000,30000,40000,50000
+411,VA,Cross-industry,Legal Occupations,10000,20000,30000,40000,50000
+412,US,Other Services (except Public Administration),"Sales Representatives, Services",10000,20000,30000,40000,50000
+413,TN,Cross-industry,Production Occupations,10000,20000,30000,40000,50000
+414,US,Construction,Computer Occupations,10000,20000,30000,40000,50000
+415,US,Real Estate and Rental and Leasing,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+416,US,Administrative and Support and Waste Management and Remediation Services,Supervisors of Office and Administrative Support Workers,10000,20000,30000,40000,50000
+417,US,Manufacturing,Motor Vehicle Operators,10000,20000,30000,40000,50000
+418,US,Educational Services,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+419,WI,Cross-industry,Production Occupations,10000,20000,30000,40000,50000
+420,NJ,Cross-industry,Protective Service Occupations,10000,20000,30000,40000,50000
+421,MD,Cross-industry,Community and Social Service Occupations,10000,20000,30000,40000,50000
+422,NJ,Cross-industry,Sales and Related Occupations,10000,20000,30000,40000,50000
+423,CT,Cross-industry,"Life, Physical, and Social Science Occupations",10000,20000,30000,40000,50000
+424,US,Finance and Insurance,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+425,US,Manufacturing,Business Operations Specialists,10000,20000,30000,40000,50000
+426,US,"Mining, Quarrying, and Oil and Gas Extraction",Motor Vehicle Operators,10000,20000,30000,40000,50000
+427,IL,Cross-industry,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+428,US,"Arts, Entertainment, and Recreation",Other Teachers and Instructors,10000,20000,30000,40000,50000
+429,US,Retail Trade,Computer and Mathematical Occupations,10000,20000,30000,40000,50000
+430,US,Other Services (except Public Administration),"Counselors, Social Workers, and Other Community and Social Service Specialists",10000,20000,30000,40000,50000
+431,IN,Cross-industry,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+432,US,Health Care and Social Assistance,Financial Specialists,10000,20000,30000,40000,50000
+433,TX,Cross-industry,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+434,US,Educational Services,Supervisors of Transportation and Material Moving Workers,10000,20000,30000,40000,50000
+435,US,Management of Companies and Enterprises,Other Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+436,AR,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+437,MI,Cross-industry,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+438,US,Wholesale Trade,Health Technologists and Technicians,10000,20000,30000,40000,50000
+439,AK,Cross-industry,Architecture and Engineering Occupations,10000,20000,30000,40000,50000
+440,US,Information,Other Personal Care and Service Workers,10000,20000,30000,40000,50000
+441,US,Educational Services,Firefighting and Prevention Workers,10000,20000,30000,40000,50000
+442,ME,Cross-industry,Architecture and Engineering Occupations,10000,20000,30000,40000,50000
+443,NV,Cross-industry,Legal Occupations,10000,20000,30000,40000,50000
+444,US,Accommodation and Food Services,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+445,CT,Cross-industry,"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+446,US,"Arts, Entertainment, and Recreation",Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+447,MA,Cross-industry,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+448,US,Transportation and Warehousing,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+449,US,Information,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+450,US,Accommodation and Food Services,"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",10000,20000,30000,40000,50000
+451,US,Accommodation and Food Services,"Other Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+452,US,Wholesale Trade,Business and Financial Operations Occupations,10000,20000,30000,40000,50000
+453,US,"Professional, Scientific, and Technical Services",Material Moving Workers,10000,20000,30000,40000,50000
+454,US,Manufacturing,Protective Service Occupations,10000,20000,30000,40000,50000
+455,VT,Cross-industry,"Life, Physical, and Social Science Occupations",10000,20000,30000,40000,50000
+456,MD,Cross-industry,Protective Service Occupations,10000,20000,30000,40000,50000
+457,US,Cross-industry,Material Moving Workers,10000,20000,30000,40000,50000
+458,WY,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+459,US,"Arts, Entertainment, and Recreation",Rail Transportation Workers,10000,20000,30000,40000,50000
+460,VT,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+461,WY,Cross-industry,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+462,US,Construction,Operations Specialties Managers,10000,20000,30000,40000,50000
+463,US,Educational Services,Life Scientists,10000,20000,30000,40000,50000
+464,US,Other Services (except Public Administration),Material Moving Workers,10000,20000,30000,40000,50000
+465,US,Accommodation and Food Services,Supervisors of Office and Administrative Support Workers,10000,20000,30000,40000,50000
+466,NE,Cross-industry,Production Occupations,10000,20000,30000,40000,50000
+467,PA,Cross-industry,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+468,US,Construction,"Textile, Apparel, and Furnishings Workers",10000,20000,30000,40000,50000
+469,US,Retail Trade,Other Management Occupations,10000,20000,30000,40000,50000
+470,LA,Cross-industry,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+471,SC,Cross-industry,Protective Service Occupations,10000,20000,30000,40000,50000
+472,US,Wholesale Trade,Supervisors of Transportation and Material Moving Workers,10000,20000,30000,40000,50000
+473,US,Management of Companies and Enterprises,Agricultural Workers,10000,20000,30000,40000,50000
+474,OK,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+475,US,Construction,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+476,US,Retail Trade,Computer Occupations,10000,20000,30000,40000,50000
+477,US,Accommodation and Food Services,Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+478,US,Transportation and Warehousing,Supervisors of Construction and Extraction Workers,10000,20000,30000,40000,50000
+479,OR,Cross-industry,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+480,US,Transportation and Warehousing,Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+481,US,Other Services (except Public Administration),Supervisors of Office and Administrative Support Workers,10000,20000,30000,40000,50000
+482,US,Administrative and Support and Waste Management and Remediation Services,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+483,US,"Arts, Entertainment, and Recreation",Air Transportation Workers,10000,20000,30000,40000,50000
+484,AK,Cross-industry,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+485,US,Cross-industry,Supervisors of Office and Administrative Support Workers,10000,20000,30000,40000,50000
+486,US,Finance and Insurance,"Life, Physical, and Social Science Occupations",10000,20000,30000,40000,50000
+487,US,Information,Motor Vehicle Operators,10000,20000,30000,40000,50000
+488,US,Health Care and Social Assistance,Supervisors of Office and Administrative Support Workers,10000,20000,30000,40000,50000
+489,NM,Cross-industry,"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+490,US,Cross-industry,Animal Care and Service Workers,10000,20000,30000,40000,50000
+491,OR,Cross-industry,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+492,IA,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+493,US,"Arts, Entertainment, and Recreation",Construction Trades Workers,10000,20000,30000,40000,50000
+494,US,Other Services (except Public Administration),Other Healthcare Support Occupations,10000,20000,30000,40000,50000
+495,KY,Cross-industry,Community and Social Service Occupations,10000,20000,30000,40000,50000
+496,US,Information,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+497,KY,Cross-industry,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+498,MS,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+499,US,Utilities,Plant and System Operators,10000,20000,30000,40000,50000
+500,US,Transportation and Warehousing,"Baggage Porters, Bellhops, and Concierges",10000,20000,30000,40000,50000
+501,US,Management of Companies and Enterprises,Other Sales and Related Workers,10000,20000,30000,40000,50000
+502,US,Health Care and Social Assistance,Other Teachers and Instructors,10000,20000,30000,40000,50000
+503,PA,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+504,US,Real Estate and Rental and Leasing,"Architects, Surveyors, and Cartographers",10000,20000,30000,40000,50000
+505,OH,Cross-industry,Management Occupations,10000,20000,30000,40000,50000
+506,US,"Arts, Entertainment, and Recreation",Sales and Related Occupations,10000,20000,30000,40000,50000
+507,US,Construction,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+508,US,Transportation and Warehousing,Postsecondary Teachers,10000,20000,30000,40000,50000
+509,US,Educational Services,Air Transportation Workers,10000,20000,30000,40000,50000
+510,US,Administrative and Support and Waste Management and Remediation Services,Postsecondary Teachers,10000,20000,30000,40000,50000
+511,MT,Cross-industry,Sales and Related Occupations,10000,20000,30000,40000,50000
+512,NV,Cross-industry,Architecture and Engineering Occupations,10000,20000,30000,40000,50000
+513,VT,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+514,CA,Cross-industry,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+515,US,Health Care and Social Assistance,Supervisors of Building and Grounds Cleaning and Maintenance Workers,10000,20000,30000,40000,50000
+516,NE,Cross-industry,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+517,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Other Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+518,US,Wholesale Trade,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+519,VA,Cross-industry,Business and Financial Operations Occupations,10000,20000,30000,40000,50000
+520,US,Health Care and Social Assistance,Community and Social Service Occupations,10000,20000,30000,40000,50000
+521,US,Management of Companies and Enterprises,Building Cleaning and Pest Control Workers,10000,20000,30000,40000,50000
+522,IA,Cross-industry,Community and Social Service Occupations,10000,20000,30000,40000,50000
+523,US,Utilities,Motor Vehicle Operators,10000,20000,30000,40000,50000
+524,US,"Mining, Quarrying, and Oil and Gas Extraction",Metal Workers and Plastic Workers,10000,20000,30000,40000,50000
+525,US,"Professional, Scientific, and Technical Services",Supervisors of Transportation and Material Moving Workers,10000,20000,30000,40000,50000
+526,US,Health Care and Social Assistance,Other Management Occupations,10000,20000,30000,40000,50000
+527,OR,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+528,US,"Agriculture, Forestry, Fishing and Hunting",Other Management Occupations,10000,20000,30000,40000,50000
+529,US,Health Care and Social Assistance,Architecture and Engineering Occupations,10000,20000,30000,40000,50000
+530,US,Management of Companies and Enterprises,Production Occupations,10000,20000,30000,40000,50000
+531,TX,Cross-industry,"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+532,US,Educational Services,Legal Support Workers,10000,20000,30000,40000,50000
+533,CA,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+534,US,Wholesale Trade,Office and Administrative Support Occupations,10000,20000,30000,40000,50000
+535,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Tour and Travel Guides,10000,20000,30000,40000,50000
+536,US,Other Services (except Public Administration),"Preschool, Elementary, Middle, Secondary, and Special Education Teachers",10000,20000,30000,40000,50000
+537,US,Finance and Insurance,Supervisors of Sales Workers,10000,20000,30000,40000,50000
+538,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Building Cleaning and Pest Control Workers,10000,20000,30000,40000,50000
+539,US,Administrative and Support and Waste Management and Remediation Services,Other Protective Service Workers,10000,20000,30000,40000,50000
+540,US,Accommodation and Food Services,Motor Vehicle Operators,10000,20000,30000,40000,50000
+541,US,"Arts, Entertainment, and Recreation",Financial Specialists,10000,20000,30000,40000,50000
+542,US,Finance and Insurance,Supervisors of Transportation and Material Moving Workers,10000,20000,30000,40000,50000
+543,US,Health Care and Social Assistance,Other Healthcare Support Occupations,10000,20000,30000,40000,50000
+544,US,Construction,Building Cleaning and Pest Control Workers,10000,20000,30000,40000,50000
+545,US,"Agriculture, Forestry, Fishing and Hunting",Cooks and Food Preparation Workers,10000,20000,30000,40000,50000
+546,US,Health Care and Social Assistance,Other Transportation Workers,10000,20000,30000,40000,50000
+547,WY,Cross-industry,"Life, Physical, and Social Science Occupations",10000,20000,30000,40000,50000
+548,US,"Arts, Entertainment, and Recreation","Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",10000,20000,30000,40000,50000
+549,AZ,Cross-industry,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+550,US,Construction,Entertainment Attendants and Related Workers,10000,20000,30000,40000,50000
+551,US,Health Care and Social Assistance,"Supervisors of Installation, Maintenance, and Repair Workers",10000,20000,30000,40000,50000
+552,US,Cross-industry,"Entertainers and Performers, Sports and Related Workers",10000,20000,30000,40000,50000
+553,WY,Cross-industry,Protective Service Occupations,10000,20000,30000,40000,50000
+554,US,Cross-industry,Postsecondary Teachers,10000,20000,30000,40000,50000
+555,MS,Cross-industry,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+556,US,Management of Companies and Enterprises,"Preschool, Elementary, Middle, Secondary, and Special Education Teachers",10000,20000,30000,40000,50000
+557,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Healthcare Support Occupations,10000,20000,30000,40000,50000
+558,US,Wholesale Trade,Architecture and Engineering Occupations,10000,20000,30000,40000,50000
+559,US,Accommodation and Food Services,Animal Care and Service Workers,10000,20000,30000,40000,50000
+560,US,Wholesale Trade,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+561,US,Cross-industry,Law Enforcement Workers,10000,20000,30000,40000,50000
+562,US,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+563,ND,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+564,US,Information,"Sales Representatives, Services",10000,20000,30000,40000,50000
+565,US,Management of Companies and Enterprises,"Sales Representatives, Services",10000,20000,30000,40000,50000
+566,US,Utilities,Other Sales and Related Workers,10000,20000,30000,40000,50000
+567,US,Administrative and Support and Waste Management and Remediation Services,Communications Equipment Operators,10000,20000,30000,40000,50000
+568,US,Administrative and Support and Waste Management and Remediation Services,Metal Workers and Plastic Workers,10000,20000,30000,40000,50000
+569,KS,Cross-industry,Business and Financial Operations Occupations,10000,20000,30000,40000,50000
+570,VA,Cross-industry,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+571,US,"Professional, Scientific, and Technical Services",Supervisors of Food Preparation and Serving Workers,10000,20000,30000,40000,50000
+572,US,Information,"Preschool, Elementary, Middle, Secondary, and Special Education Teachers",10000,20000,30000,40000,50000
+573,US,Real Estate and Rental and Leasing,Water Transportation Workers,10000,20000,30000,40000,50000
+574,WY,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+575,AR,Cross-industry,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+576,PA,Cross-industry,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+577,VT,Cross-industry,Architecture and Engineering Occupations,10000,20000,30000,40000,50000
+578,US,"Professional, Scientific, and Technical Services",Media and Communication Equipment Workers,10000,20000,30000,40000,50000
+579,CT,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+580,US,"Arts, Entertainment, and Recreation",Supervisors of Building and Grounds Cleaning and Maintenance Workers,10000,20000,30000,40000,50000
+581,US,Educational Services,Health Technologists and Technicians,10000,20000,30000,40000,50000
+582,OR,Cross-industry,Architecture and Engineering Occupations,10000,20000,30000,40000,50000
+583,US,Health Care and Social Assistance,"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",10000,20000,30000,40000,50000
+584,MN,Cross-industry,Community and Social Service Occupations,10000,20000,30000,40000,50000
+585,US,Real Estate and Rental and Leasing,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+586,US,Retail Trade,"Life, Physical, and Social Science Technicians",10000,20000,30000,40000,50000
+587,US,"Mining, Quarrying, and Oil and Gas Extraction",Construction Trades Workers,10000,20000,30000,40000,50000
+588,US,Information,Health Technologists and Technicians,10000,20000,30000,40000,50000
+589,US,Manufacturing,Financial Specialists,10000,20000,30000,40000,50000
+590,MS,Cross-industry,"Life, Physical, and Social Science Occupations",10000,20000,30000,40000,50000
+591,US,"Arts, Entertainment, and Recreation",Assemblers and Fabricators,10000,20000,30000,40000,50000
+592,KY,Cross-industry,Computer and Mathematical Occupations,10000,20000,30000,40000,50000
+593,US,Management of Companies and Enterprises,Supervisors of Personal Care and Service Workers,10000,20000,30000,40000,50000
+594,RI,Cross-industry,Production Occupations,10000,20000,30000,40000,50000
+595,NE,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+596,US,Health Care and Social Assistance,Protective Service Occupations,10000,20000,30000,40000,50000
+597,US,Real Estate and Rental and Leasing,Community and Social Service Occupations,10000,20000,30000,40000,50000
+598,IA,Cross-industry,Legal Occupations,10000,20000,30000,40000,50000
+599,US,Utilities,Other Protective Service Workers,10000,20000,30000,40000,50000
+600,US,Information,"Drafters, Engineering Technicians, and Mapping Technicians",10000,20000,30000,40000,50000
+601,US,Administrative and Support and Waste Management and Remediation Services,Community and Social Service Occupations,10000,20000,30000,40000,50000
+602,MO,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+603,SD,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+604,US,Retail Trade,"Librarians, Curators, and Archivists",10000,20000,30000,40000,50000
+605,US,Construction,Protective Service Occupations,10000,20000,30000,40000,50000
+606,US,Management of Companies and Enterprises,Communications Equipment Operators,10000,20000,30000,40000,50000
+607,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Other Sales and Related Workers,10000,20000,30000,40000,50000
+608,HI,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+609,MI,Cross-industry,"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+610,TN,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+611,US,Real Estate and Rental and Leasing,"Other Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+612,US,Educational Services,Other Construction and Related Workers,10000,20000,30000,40000,50000
+613,US,Administrative and Support and Waste Management and Remediation Services,Supervisors of Building and Grounds Cleaning and Maintenance Workers,10000,20000,30000,40000,50000
+614,NC,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+615,US,"Agriculture, Forestry, Fishing and Hunting",Metal Workers and Plastic Workers,10000,20000,30000,40000,50000
+616,AR,Cross-industry,Food Preparation and Serving Related Occupations,10000,20000,30000,40000,50000
+617,DC,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+618,AK,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+619,US,"Professional, Scientific, and Technical Services","Sales Representatives, Wholesale and Manufacturing",10000,20000,30000,40000,50000
+620,NE,Cross-industry,"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+621,US,Real Estate and Rental and Leasing,Supervisors of Production Workers,10000,20000,30000,40000,50000
+622,VT,Cross-industry,Legal Occupations,10000,20000,30000,40000,50000
+623,US,Manufacturing,"Sales Representatives, Wholesale and Manufacturing",10000,20000,30000,40000,50000
+624,MN,Cross-industry,Legal Occupations,10000,20000,30000,40000,50000
+625,US,"Mining, Quarrying, and Oil and Gas Extraction",Construction and Extraction Occupations,10000,20000,30000,40000,50000
+626,US,Construction,"Baggage Porters, Bellhops, and Concierges",10000,20000,30000,40000,50000
+627,AL,Cross-industry,Sales and Related Occupations,10000,20000,30000,40000,50000
+628,NV,Cross-industry,Computer and Mathematical Occupations,10000,20000,30000,40000,50000
+629,MA,Cross-industry,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+630,NH,Cross-industry,Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+631,TN,Cross-industry,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+632,US,Construction,Supervisors of Protective Service Workers,10000,20000,30000,40000,50000
+633,ND,Cross-industry,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+634,CO,Cross-industry,Protective Service Occupations,10000,20000,30000,40000,50000
+635,US,Educational Services,"Sales Representatives, Services",10000,20000,30000,40000,50000
+636,US,Transportation and Warehousing,"Sales Representatives, Wholesale and Manufacturing",10000,20000,30000,40000,50000
+637,PA,Cross-industry,Sales and Related Occupations,10000,20000,30000,40000,50000
+638,IA,Cross-industry,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+639,US,Wholesale Trade,Food Processing Workers,10000,20000,30000,40000,50000
+640,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Supervisors of Transportation and Material Moving Workers,10000,20000,30000,40000,50000
+641,US,"Mining, Quarrying, and Oil and Gas Extraction",Office and Administrative Support Occupations,10000,20000,30000,40000,50000
+642,MO,Cross-industry,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+643,US,Educational Services,Financial Specialists,10000,20000,30000,40000,50000
+644,US,"Mining, Quarrying, and Oil and Gas Extraction","Electrical and Electronic Equipment Mechanics, Installers, and Repairers",10000,20000,30000,40000,50000
+645,US,Construction,Animal Care and Service Workers,10000,20000,30000,40000,50000
+646,CO,Cross-industry,Computer and Mathematical Occupations,10000,20000,30000,40000,50000
+647,US,Utilities,Grounds Maintenance Workers,10000,20000,30000,40000,50000
+648,MN,Cross-industry,Business and Financial Operations Occupations,10000,20000,30000,40000,50000
+649,US,Real Estate and Rental and Leasing,Animal Care and Service Workers,10000,20000,30000,40000,50000
+650,GA,Cross-industry,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+651,US,Real Estate and Rental and Leasing,Supervisors of Sales Workers,10000,20000,30000,40000,50000
+652,US,Construction,Supervisors of Transportation and Material Moving Workers,10000,20000,30000,40000,50000
+653,WV,Cross-industry,Architecture and Engineering Occupations,10000,20000,30000,40000,50000
+654,NE,Cross-industry,Business and Financial Operations Occupations,10000,20000,30000,40000,50000
+655,NJ,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+656,US,"Arts, Entertainment, and Recreation","Electrical and Electronic Equipment Mechanics, Installers, and Repairers",10000,20000,30000,40000,50000
+657,US,Manufacturing,Operations Specialties Managers,10000,20000,30000,40000,50000
+658,AZ,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+659,US,"Professional, Scientific, and Technical Services",Personal Appearance Workers,10000,20000,30000,40000,50000
+660,US,Cross-industry,Architecture and Engineering Occupations,10000,20000,30000,40000,50000
+661,VT,Cross-industry,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+662,US,"Arts, Entertainment, and Recreation",Management Occupations,10000,20000,30000,40000,50000
+663,WY,Cross-industry,Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+664,US,Wholesale Trade,Business Operations Specialists,10000,20000,30000,40000,50000
+665,US,Administrative and Support and Waste Management and Remediation Services,Health Technologists and Technicians,10000,20000,30000,40000,50000
+666,NY,Cross-industry,Architecture and Engineering Occupations,10000,20000,30000,40000,50000
+667,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Other Management Occupations,10000,20000,30000,40000,50000
+668,US,Other Services (except Public Administration),Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+669,US,"Mining, Quarrying, and Oil and Gas Extraction",Food Preparation and Serving Related Occupations,10000,20000,30000,40000,50000
+670,US,Utilities,Office and Administrative Support Occupations,10000,20000,30000,40000,50000
+671,US,"Mining, Quarrying, and Oil and Gas Extraction",Supervisors of Production Workers,10000,20000,30000,40000,50000
+672,OR,Cross-industry,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+673,US,Administrative and Support and Waste Management and Remediation Services,Grounds Maintenance Workers,10000,20000,30000,40000,50000
+674,US,Cross-industry,Metal Workers and Plastic Workers,10000,20000,30000,40000,50000
+675,US,Accommodation and Food Services,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+676,LA,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+677,US,Accommodation and Food Services,Other Personal Care and Service Workers,10000,20000,30000,40000,50000
+678,NY,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+679,US,Educational Services,Funeral Service Workers,10000,20000,30000,40000,50000
+680,US,Other Services (except Public Administration),Other Protective Service Workers,10000,20000,30000,40000,50000
+681,ID,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+682,OK,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+683,US,Manufacturing,Financial Clerks,10000,20000,30000,40000,50000
+684,TN,Cross-industry,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+685,US,Cross-industry,Motor Vehicle Operators,10000,20000,30000,40000,50000
+686,LA,Cross-industry,Legal Occupations,10000,20000,30000,40000,50000
+687,MD,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+688,US,Health Care and Social Assistance,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+689,US,Transportation and Warehousing,"Other Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+690,NY,Cross-industry,Production Occupations,10000,20000,30000,40000,50000
+691,US,Real Estate and Rental and Leasing,Financial Clerks,10000,20000,30000,40000,50000
+692,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Management Occupations,10000,20000,30000,40000,50000
+693,US,"Mining, Quarrying, and Oil and Gas Extraction","Supervisors of Installation, Maintenance, and Repair Workers",10000,20000,30000,40000,50000
+694,SC,Cross-industry,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+695,UT,Cross-industry,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+696,US,Other Services (except Public Administration),Air Transportation Workers,10000,20000,30000,40000,50000
+697,VT,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+698,US,"Arts, Entertainment, and Recreation",Other Healthcare Support Occupations,10000,20000,30000,40000,50000
+699,US,Educational Services,Management Occupations,10000,20000,30000,40000,50000
+700,US,Real Estate and Rental and Leasing,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+701,AZ,Cross-industry,Protective Service Occupations,10000,20000,30000,40000,50000
+702,US,Manufacturing,Mathematical Science Occupations,10000,20000,30000,40000,50000
+703,NY,Cross-industry,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+704,US,Manufacturing,Physical Scientists,10000,20000,30000,40000,50000
+705,RI,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+706,US,Wholesale Trade,Personal Appearance Workers,10000,20000,30000,40000,50000
+707,US,"Professional, Scientific, and Technical Services",Healthcare Support Occupations,10000,20000,30000,40000,50000
+708,CT,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+709,US,Health Care and Social Assistance,Healthcare Diagnosing or Treating Practitioners,10000,20000,30000,40000,50000
+710,US,"Arts, Entertainment, and Recreation",Supervisors of Food Preparation and Serving Workers,10000,20000,30000,40000,50000
+711,ID,Cross-industry,"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+712,US,Retail Trade,Social Scientists and Related Workers,10000,20000,30000,40000,50000
+713,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Supervisors of Personal Care and Service Workers,10000,20000,30000,40000,50000
+714,US,Administrative and Support and Waste Management and Remediation Services,Other Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+715,US,"Mining, Quarrying, and Oil and Gas Extraction",Financial Clerks,10000,20000,30000,40000,50000
+716,US,Cross-industry,Life Scientists,10000,20000,30000,40000,50000
+717,AZ,Cross-industry,Production Occupations,10000,20000,30000,40000,50000
+718,US,Wholesale Trade,Engineers,10000,20000,30000,40000,50000
+719,LA,Cross-industry,Management Occupations,10000,20000,30000,40000,50000
+720,US,Administrative and Support and Waste Management and Remediation Services,Occupational Health and Safety Specialists and Technicians,10000,20000,30000,40000,50000
+721,NY,Cross-industry,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+722,US,Other Services (except Public Administration),Food Processing Workers,10000,20000,30000,40000,50000
+723,RI,Cross-industry,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+724,WY,Cross-industry,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+725,US,Accommodation and Food Services,Healthcare Diagnosing or Treating Practitioners,10000,20000,30000,40000,50000
+726,NC,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+727,TN,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+728,US,Wholesale Trade,Water Transportation Workers,10000,20000,30000,40000,50000
+729,US,Finance and Insurance,Building Cleaning and Pest Control Workers,10000,20000,30000,40000,50000
+730,US,Information,Supervisors of Transportation and Material Moving Workers,10000,20000,30000,40000,50000
+731,US,Administrative and Support and Waste Management and Remediation Services,Religious Workers,10000,20000,30000,40000,50000
+732,ME,Cross-industry,Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+733,US,"Professional, Scientific, and Technical Services","Life, Physical, and Social Science Technicians",10000,20000,30000,40000,50000
+734,TX,Cross-industry,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+735,US,Information,Architecture and Engineering Occupations,10000,20000,30000,40000,50000
+736,US,Administrative and Support and Waste Management and Remediation Services,Supervisors of Food Preparation and Serving Workers,10000,20000,30000,40000,50000
+737,US,Information,Communications Equipment Operators,10000,20000,30000,40000,50000
+738,NV,Cross-industry,Production Occupations,10000,20000,30000,40000,50000
+739,MS,Cross-industry,Office and Administrative Support Occupations,10000,20000,30000,40000,50000
+740,US,Educational Services,Supervisors of Construction and Extraction Workers,10000,20000,30000,40000,50000
+741,NM,Cross-industry,Business and Financial Operations Occupations,10000,20000,30000,40000,50000
+742,US,"Professional, Scientific, and Technical Services","Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",10000,20000,30000,40000,50000
+743,US,Other Services (except Public Administration),Supervisors of Personal Care and Service Workers,10000,20000,30000,40000,50000
+744,US,Other Services (except Public Administration),"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+745,US,"Agriculture, Forestry, Fishing and Hunting","Life, Physical, and Social Science Technicians",10000,20000,30000,40000,50000
+746,US,Other Services (except Public Administration),Law Enforcement Workers,10000,20000,30000,40000,50000
+747,US,"Mining, Quarrying, and Oil and Gas Extraction",Supervisors of Construction and Extraction Workers,10000,20000,30000,40000,50000
+748,CT,Cross-industry,Production Occupations,10000,20000,30000,40000,50000
+749,US,Construction,Other Food Preparation and Serving Related Workers,10000,20000,30000,40000,50000
+750,US,Other Services (except Public Administration),Other Personal Care and Service Workers,10000,20000,30000,40000,50000
+751,US,Retail Trade,Entertainment Attendants and Related Workers,10000,20000,30000,40000,50000
+752,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Construction Trades Workers,10000,20000,30000,40000,50000
+753,US,Utilities,"Life, Physical, and Social Science Technicians",10000,20000,30000,40000,50000
+754,MD,Cross-industry,"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+755,US,Health Care and Social Assistance,Tour and Travel Guides,10000,20000,30000,40000,50000
+756,RI,Cross-industry,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+757,NJ,Cross-industry,Business and Financial Operations Occupations,10000,20000,30000,40000,50000
+758,KS,Cross-industry,Sales and Related Occupations,10000,20000,30000,40000,50000
+759,AR,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+760,US,Educational Services,Food Processing Workers,10000,20000,30000,40000,50000
+761,US,Other Services (except Public Administration),Supervisors of Sales Workers,10000,20000,30000,40000,50000
+762,US,Other Services (except Public Administration),"Textile, Apparel, and Furnishings Workers",10000,20000,30000,40000,50000
+763,IA,Cross-industry,Office and Administrative Support Occupations,10000,20000,30000,40000,50000
+764,MA,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+765,US,Wholesale Trade,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+766,US,Wholesale Trade,Animal Care and Service Workers,10000,20000,30000,40000,50000
+767,HI,Cross-industry,Legal Occupations,10000,20000,30000,40000,50000
+768,US,"Professional, Scientific, and Technical Services",Occupational Therapy and Physical Therapist Assistants and Aides,10000,20000,30000,40000,50000
+769,UT,Cross-industry,"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+770,US,Construction,Secretaries and Administrative Assistants,10000,20000,30000,40000,50000
+771,US,Management of Companies and Enterprises,Secretaries and Administrative Assistants,10000,20000,30000,40000,50000
+772,SC,Cross-industry,Computer and Mathematical Occupations,10000,20000,30000,40000,50000
+773,US,"Professional, Scientific, and Technical Services",Business Operations Specialists,10000,20000,30000,40000,50000
+774,NH,Cross-industry,Office and Administrative Support Occupations,10000,20000,30000,40000,50000
+775,KS,Cross-industry,Legal Occupations,10000,20000,30000,40000,50000
+776,IA,Cross-industry,Construction and Extraction Occupations,10000,20000,30000,40000,50000
+777,US,"Arts, Entertainment, and Recreation",Plant and System Operators,10000,20000,30000,40000,50000
+778,US,Cross-industry,Personal Appearance Workers,10000,20000,30000,40000,50000
+779,TN,Cross-industry,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+780,AR,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+781,US,Other Services (except Public Administration),Water Transportation Workers,10000,20000,30000,40000,50000
+782,US,Accommodation and Food Services,Food Processing Workers,10000,20000,30000,40000,50000
+783,MN,Cross-industry,Food Preparation and Serving Related Occupations,10000,20000,30000,40000,50000
+784,NC,Cross-industry,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+785,OK,Cross-industry,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+786,AZ,Cross-industry,Architecture and Engineering Occupations,10000,20000,30000,40000,50000
+787,US,Information,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+788,HI,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+789,US,Retail Trade,Metal Workers and Plastic Workers,10000,20000,30000,40000,50000
+790,US,Accommodation and Food Services,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+791,US,Retail Trade,Health Technologists and Technicians,10000,20000,30000,40000,50000
+792,US,Educational Services,Other Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+793,OR,Cross-industry,Food Preparation and Serving Related Occupations,10000,20000,30000,40000,50000
+794,US,Other Services (except Public Administration),Art and Design Workers,10000,20000,30000,40000,50000
+795,NJ,Cross-industry,"Life, Physical, and Social Science Occupations",10000,20000,30000,40000,50000
+796,US,Transportation and Warehousing,"Sales Representatives, Services",10000,20000,30000,40000,50000
+797,TX,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+798,US,Manufacturing,Retail Sales Workers,10000,20000,30000,40000,50000
+799,US,"Arts, Entertainment, and Recreation",Supervisors of Personal Care and Service Workers,10000,20000,30000,40000,50000
+800,KS,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+801,US,Manufacturing,Food and Beverage Serving Workers,10000,20000,30000,40000,50000
+802,ID,Cross-industry,Community and Social Service Occupations,10000,20000,30000,40000,50000
+803,US,Wholesale Trade,Other Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+804,US,Management of Companies and Enterprises,Sales and Related Occupations,10000,20000,30000,40000,50000
+805,US,"Mining, Quarrying, and Oil and Gas Extraction",Supervisors of Transportation and Material Moving Workers,10000,20000,30000,40000,50000
+806,US,Administrative and Support and Waste Management and Remediation Services,"Other Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+807,US,"Agriculture, Forestry, Fishing and Hunting",Top Executives,10000,20000,30000,40000,50000
+808,US,"Professional, Scientific, and Technical Services",Architecture and Engineering Occupations,10000,20000,30000,40000,50000
+809,OK,Cross-industry,Computer and Mathematical Occupations,10000,20000,30000,40000,50000
+810,US,"Agriculture, Forestry, Fishing and Hunting","Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",10000,20000,30000,40000,50000
+811,US,Utilities,Secretaries and Administrative Assistants,10000,20000,30000,40000,50000
+812,US,Utilities,"Architects, Surveyors, and Cartographers",10000,20000,30000,40000,50000
+813,US,Administrative and Support and Waste Management and Remediation Services,"Electrical and Electronic Equipment Mechanics, Installers, and Repairers",10000,20000,30000,40000,50000
+814,WY,Cross-industry,Business and Financial Operations Occupations,10000,20000,30000,40000,50000
+815,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)","Librarians, Curators, and Archivists",10000,20000,30000,40000,50000
+816,US,Real Estate and Rental and Leasing,Other Production Occupations,10000,20000,30000,40000,50000
+817,US,"Professional, Scientific, and Technical Services",Physical Scientists,10000,20000,30000,40000,50000
+818,US,"Arts, Entertainment, and Recreation","Sales Representatives, Services",10000,20000,30000,40000,50000
+819,PA,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+820,US,Management of Companies and Enterprises,Entertainment Attendants and Related Workers,10000,20000,30000,40000,50000
+821,US,Accommodation and Food Services,Retail Sales Workers,10000,20000,30000,40000,50000
+822,SD,Cross-industry,Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+823,NH,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+824,US,Administrative and Support and Waste Management and Remediation Services,"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",10000,20000,30000,40000,50000
+825,DC,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+826,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)","Advertising, Marketing, Promotions, Public Relations, and Sales Managers",10000,20000,30000,40000,50000
+827,KS,Cross-industry,Management Occupations,10000,20000,30000,40000,50000
+828,US,Health Care and Social Assistance,"Entertainers and Performers, Sports and Related Workers",10000,20000,30000,40000,50000
+829,VA,Cross-industry,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+830,US,Wholesale Trade,Supervisors of Personal Care and Service Workers,10000,20000,30000,40000,50000
+831,US,Management of Companies and Enterprises,Media and Communication Workers,10000,20000,30000,40000,50000
+832,DE,Cross-industry,Transportation and Material Moving Occupations,10000,20000,30000,40000,50000
+833,US,"Agriculture, Forestry, Fishing and Hunting",Agricultural Workers,10000,20000,30000,40000,50000
+834,US,Management of Companies and Enterprises,Supervisors of Building and Grounds Cleaning and Maintenance Workers,10000,20000,30000,40000,50000
+835,AZ,Cross-industry,Business and Financial Operations Occupations,10000,20000,30000,40000,50000
+836,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Production Occupations,10000,20000,30000,40000,50000
+837,US,Finance and Insurance,Other Production Occupations,10000,20000,30000,40000,50000
+838,US,Manufacturing,Other Food Preparation and Serving Related Workers,10000,20000,30000,40000,50000
+839,US,Administrative and Support and Waste Management and Remediation Services,Other Personal Care and Service Workers,10000,20000,30000,40000,50000
+840,US,"Mining, Quarrying, and Oil and Gas Extraction",Air Transportation Workers,10000,20000,30000,40000,50000
+841,AK,Cross-industry,Office and Administrative Support Occupations,10000,20000,30000,40000,50000
+842,AK,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+843,US,"Mining, Quarrying, and Oil and Gas Extraction",Material Moving Workers,10000,20000,30000,40000,50000
+844,US,Cross-industry,Plant and System Operators,10000,20000,30000,40000,50000
+845,US,Utilities,Material Moving Workers,10000,20000,30000,40000,50000
+846,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)","Supervisors of Installation, Maintenance, and Repair Workers",10000,20000,30000,40000,50000
+847,US,Educational Services,Occupational Health and Safety Specialists and Technicians,10000,20000,30000,40000,50000
+848,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)","Textile, Apparel, and Furnishings Workers",10000,20000,30000,40000,50000
+849,US,Administrative and Support and Waste Management and Remediation Services,Legal Support Workers,10000,20000,30000,40000,50000
+850,US,Utilities,Legal Support Workers,10000,20000,30000,40000,50000
+851,US,Management of Companies and Enterprises,Health Technologists and Technicians,10000,20000,30000,40000,50000
+852,US,Manufacturing,Engineers,10000,20000,30000,40000,50000
+853,US,"Mining, Quarrying, and Oil and Gas Extraction",Healthcare Diagnosing or Treating Practitioners,10000,20000,30000,40000,50000
+854,US,Retail Trade,Cooks and Food Preparation Workers,10000,20000,30000,40000,50000
+855,US,Educational Services,Supervisors of Protective Service Workers,10000,20000,30000,40000,50000
+856,US,Retail Trade,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers",10000,20000,30000,40000,50000
+857,US,"Mining, Quarrying, and Oil and Gas Extraction",Business Operations Specialists,10000,20000,30000,40000,50000
+858,US,"Arts, Entertainment, and Recreation",Supervisors of Construction and Extraction Workers,10000,20000,30000,40000,50000
+859,US,"Professional, Scientific, and Technical Services",Supervisors of Office and Administrative Support Workers,10000,20000,30000,40000,50000
+860,IL,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+861,US,Accommodation and Food Services,Supervisors of Transportation and Material Moving Workers,10000,20000,30000,40000,50000
+862,US,Management of Companies and Enterprises,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+863,US,Construction,"Librarians, Curators, and Archivists",10000,20000,30000,40000,50000
+864,US,Retail Trade,Other Protective Service Workers,10000,20000,30000,40000,50000
+865,US,Accommodation and Food Services,"Supervisors of Farming, Fishing, and Forestry Workers",10000,20000,30000,40000,50000
+866,US,Real Estate and Rental and Leasing,Other Office and Administrative Support Workers,10000,20000,30000,40000,50000
+867,US,Accommodation and Food Services,"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",10000,20000,30000,40000,50000
+868,US,Finance and Insurance,Other Office and Administrative Support Workers,10000,20000,30000,40000,50000
+869,US,Wholesale Trade,"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+870,US,"Professional, Scientific, and Technical Services","Entertainers and Performers, Sports and Related Workers",10000,20000,30000,40000,50000
+871,NE,Cross-industry,Office and Administrative Support Occupations,10000,20000,30000,40000,50000
+872,OR,Cross-industry,"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+873,US,Accommodation and Food Services,Engineers,10000,20000,30000,40000,50000
+874,WI,Cross-industry,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+875,US,Information,Other Protective Service Workers,10000,20000,30000,40000,50000
+876,US,Health Care and Social Assistance,Computer and Mathematical Occupations,10000,20000,30000,40000,50000
+877,US,"Professional, Scientific, and Technical Services",Engineers,10000,20000,30000,40000,50000
+878,DE,Cross-industry,Office and Administrative Support Occupations,10000,20000,30000,40000,50000
+879,IN,Cross-industry,Management Occupations,10000,20000,30000,40000,50000
+880,US,Real Estate and Rental and Leasing,Supervisors of Office and Administrative Support Workers,10000,20000,30000,40000,50000
+881,HI,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+882,US,Manufacturing,"Forest, Conservation, and Logging Workers",10000,20000,30000,40000,50000
+883,US,"Arts, Entertainment, and Recreation","Textile, Apparel, and Furnishings Workers",10000,20000,30000,40000,50000
+884,US,Management of Companies and Enterprises,Supervisors of Office and Administrative Support Workers,10000,20000,30000,40000,50000
+885,WI,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+886,US,Accommodation and Food Services,Legal Support Workers,10000,20000,30000,40000,50000
+887,OH,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+888,OR,Cross-industry,Sales and Related Occupations,10000,20000,30000,40000,50000
+889,US,Utilities,Financial Specialists,10000,20000,30000,40000,50000
+890,US,"Professional, Scientific, and Technical Services",Plant and System Operators,10000,20000,30000,40000,50000
+891,US,Manufacturing,Other Office and Administrative Support Workers,10000,20000,30000,40000,50000
+892,OK,Cross-industry,Business and Financial Operations Occupations,10000,20000,30000,40000,50000
+893,ME,Cross-industry,Office and Administrative Support Occupations,10000,20000,30000,40000,50000
+894,US,Finance and Insurance,Media and Communication Equipment Workers,10000,20000,30000,40000,50000
+895,US,Construction,Health Technologists and Technicians,10000,20000,30000,40000,50000
+896,US,Utilities,Supervisors of Sales Workers,10000,20000,30000,40000,50000
+897,VA,Cross-industry,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+898,MT,Cross-industry,Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+899,US,Finance and Insurance,Office and Administrative Support Occupations,10000,20000,30000,40000,50000
+900,US,"Arts, Entertainment, and Recreation",Supervisors of Sales Workers,10000,20000,30000,40000,50000
+901,US,Administrative and Support and Waste Management and Remediation Services,"Sales Representatives, Services",10000,20000,30000,40000,50000
+902,MS,Cross-industry,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+903,OR,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+904,US,Administrative and Support and Waste Management and Remediation Services,Other Transportation Workers,10000,20000,30000,40000,50000
+905,US,Manufacturing,"Helpers, Construction Trades",10000,20000,30000,40000,50000
+906,US,Finance and Insurance,"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",10000,20000,30000,40000,50000
+907,NM,Cross-industry,Healthcare Support Occupations,10000,20000,30000,40000,50000
+908,US,Wholesale Trade,Healthcare Support Occupations,10000,20000,30000,40000,50000
+909,US,Finance and Insurance,"Counselors, Social Workers, and Other Community and Social Service Specialists",10000,20000,30000,40000,50000
+910,US,Retail Trade,"Farming, Fishing, and Forestry Occupations",10000,20000,30000,40000,50000
+911,US,Educational Services,Grounds Maintenance Workers,10000,20000,30000,40000,50000
+912,LA,Cross-industry,Healthcare Practitioners and Technical Occupations,10000,20000,30000,40000,50000
+913,SC,Cross-industry,Business and Financial Operations Occupations,10000,20000,30000,40000,50000
+914,US,Manufacturing,Personal Care and Service Occupations,10000,20000,30000,40000,50000
+915,US,"Professional, Scientific, and Technical Services",Financial Clerks,10000,20000,30000,40000,50000
+916,AK,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,10000,20000,30000,40000,50000
+917,US,Information,Protective Service Occupations,10000,20000,30000,40000,50000
+918,US,Retail Trade,Supervisors of Food Preparation and Serving Workers,10000,20000,30000,40000,50000
+919,DE,Cross-industry,Production Occupations,10000,20000,30000,40000,50000
+920,VA,Cross-industry,"Installation, Maintenance, and Repair Occupations",10000,20000,30000,40000,50000
+921,US,Utilities,Other Educational Instruction and Library Occupations,10000,20000,30000,40000,50000
+922,US,"Arts, Entertainment, and Recreation",Community and Social Service Occupations,10000,20000,30000,40000,50000
+923,WI,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",10000,20000,30000,40000,50000
+924,PA,Cross-industry,Computer and Mathematical Occupations,10000,20000,30000,40000,50000
+925,US,Construction,Other Protective Service Workers,10000,20000,30000,40000,50000
